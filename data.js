@@ -74,33 +74,27 @@ const courseData = {
       },
       {
         "day": "Thursday",
-        "time": "08:00 to 08:50",
+        "time": "09:00 to 09:50",
         "resource_name": "Block - VISVAKARMA - VISKGF WI05 Lecture Hall 3",
         "course_title": "Professional Communication"
       },
       {
         "day": "Thursday",
-        "time": "09:00 to 09:50",
+        "time": "10:00 to 10:50",
         "resource_name": "Block - VEDANTA - VEDF 405 Lh7",
         "course_title": "Engineering Chemistry"
       },
       {
         "day": "Thursday",
-        "time": "10:00 to 10:50",
+        "time": "11:00 to 11:50",
         "resource_name": "Block - VEDANTA - VEDF 223 - A ComputerLab1",
         "course_title": "Programming for Problem Solving"
       },
       {
         "day": "Thursday",
-        "time": "11:00 to 11:50",
-        "resource_name": "Block - VISVAKARMA - VISKGF WI05 Lecture Hall 3",
-        "course_title": "Engineering Mathematics I"
-      },
-      {
-        "day": "Thursday",
         "time": "12:00 to 12:50",
         "resource_name": "Block - VISVAKARMA - VISKGF WI05 Lecture Hall 3",
-        "course_title": "Professional Communication"
+        "course_title": "Engineering Mathematics I"
       },
       {
         "day": "Friday",
