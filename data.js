@@ -21,7 +21,7 @@ const courseData = {
       {
         "day": "Monday",
         "time": "12:00 to 12:50",
-        "resource_name": "Block - VEDANTA - VEDF 505 & ComputerLab1",
+        "resource_name": "Block - VISVAKARMA - VISKGF WI05 Lecture Hall 3",
         "course_title": "Engineering Mathematics I"
       },
       {
