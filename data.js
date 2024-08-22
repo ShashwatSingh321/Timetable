@@ -93,7 +93,7 @@ const courseData = {
       {
         "day": "Thursday",
         "time": "11:00 to 11:50",
-        "resource_name": "Block - VEDANTA - VEDF 223 - A ComputerLab1",
+        "resource_name": "Block - VEDANTA - 4th Floor ComputerLab1",
         "course_title": "Programming for Problem Solving"
       },
       {
