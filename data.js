@@ -81,7 +81,7 @@ const courseData = {
       {
         "day": "Thursday",
         "time": "10:00 to 10:50",
-        "resource_name": "Block - VEDANTA - VEDF 405 Lh7",
+        "resource_name": "Block - VISVAKARMA - VISKGF WI05 Lecture Hall 3",
         "course_title": "Engineering Chemistry"
       },
       {
