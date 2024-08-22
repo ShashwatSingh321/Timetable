@@ -57,20 +57,26 @@ const courseData = {
       {
         "day": "Wednesday",
         "time": "10:00 to 10:50",
-        "resource_name": "Block - VEDANTA - VEDF 505 Multimedia Lab1",
+        "resource_name": "Block - VEDANTA - VEDSF 223-A Computer Lab",
         "course_title": "Programming for Problem Solving"
       },
       {
         "day": "Wednesday",
-        "time": "11:00 to 12:50",
+        "time": "11:00 to 11:50",
         "resource_name": "Block - VISVAKARMA - VISKGF WI05 Lecture Hall 3",
+        "course_title": "Electrical and Electronics Engineering Practice"
+      },
+      {
+        "day": "Wednesday",
+        "time": "12:00 to 12:50",
+        "resource_name": "Block - VISVAKARMA - VISKTF 005 Multimedia Language Lab",
         "course_title": "Engineering Chemistry"
       },
       {
         "day": "Wednesday",
         "time": "14:00 to 14:50",
         "resource_name": "Block - VISVAKARMA - VISKGF WI05 Lecture Hall 3",
-        "course_title": "Professional Communication"
+        "course_title": "Engineering Chemistry"
       },
       {
         "day": "Thursday",
