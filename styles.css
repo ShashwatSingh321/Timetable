@@ -5,6 +5,7 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
+    position: relative; /* Ensure logo positioning works correctly */
 }
 
 .container {
@@ -61,4 +62,16 @@ button:hover {
 
 .course p {
     margin: 5px 0;
+}
+
+.logo {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    font-size: 16px; /* Smaller text size */
+    opacity: 0.5; /* Lighter opacity */
+    color: rgba(0, 0, 0, 0.2); /* Very light color */
+    font-weight: bold;
+    filter: blur(1px); /* Apply blur effect */
+    white-space: nowrap; /* Prevent text wrapping */
 }
