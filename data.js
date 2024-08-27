@@ -71,7 +71,7 @@ const courseData = {
         "day": "Wednesday",
         "time": "12:00 to 12:50",
         "resource_name": "Block - VISVAKARMA - VISKTF 005 Multimedia Language Lab",
-        "course_title": "Engineering Chemistry"
+        "course_title": "Professional Communication"
       },
       {
         "day": "Wednesday",
